@@ -31,7 +31,7 @@ Design:        SolidWorks | Figma  | Blender
 
 ---
 
-### 🧠 Language Usage – Animated Pie Chart
+### 🧠 LIFE GOES ONN AND ONN AND ONN AND ONN ......
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/OG-SCARCE/OG-SCARCE/main/assets/gg.gif" alt="Animated Pie Chart" width="400px"/>
