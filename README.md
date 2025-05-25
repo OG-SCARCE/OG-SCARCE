@@ -21,17 +21,49 @@ Languages:     Java | C | Python | HTML/CSS | MATLAB | Bash
 Tools:         IntelliJ | VSCode | NetBeans | Git | Eclipse
 Libraries:     OpenCV | JavaFX | NumPy | Matplotlib | OpenGL
 Design:        SolidWorks | Figma | Blender
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OG-SCARCE&theme=tokyonight" height="180"/> </p>
-🧠 Language Usage – Animated Pie Chart
-(Replace this GIF link with your uploaded chart)
+```
+### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github.com/OG-SCARCE/OG-SCARCE/assets/animated-language-pie-chart.gif" alt="Animated Pie Chart" width="400px"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/> </p>
-🌐 Connect with Me
-<p align="center"> <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a> <a href="https://github.com/OG-SCARCE"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a> </p>
-🧬 Quote I Live By
-“The future belongs to those who build it.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OG-SCARCE&theme=tokyonight" height="180"/>
+</p>
 
-<p align="center"> ⚡ Powered by logic, coffee, and chaos.<br> 🔥 Let's build something extraordinary. </p> ```
+---
+
+### 🧠 Language Usage – Animated Pie Chart
+
+> *(Replace the image URL below with your actual GIF)*
+
+<p align="center">
+  <img src="https://github.com/OG-SCARCE/OG-SCARCE/assets/animated-language-pie-chart.gif" alt="Animated Pie Chart" width="400px"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:scarce@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/scarce"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/OG-SCARCE"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+### 🧬 Quote I Live By
+
+> _“The future belongs to those who build it.”_
+
+<p align="center">
+  ⚡ Powered by logic, coffee, and chaos.<br>
+  🔥 Let's build something extraordinary.
+</p>
