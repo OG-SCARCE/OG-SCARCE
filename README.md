@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SCARCE</h1>
-<h3 align="center">🚀 Futuristic Engineer | 🧠 Smart Tech Enthusiast | 🔒 AI • Vision • Automation</h3>
+<h3 align="center">🚀 Futuristic Engineer | 🧠 Smart Tech Enthusiast | 🔒 AI • Cybersecurity • Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=440&lines=Crafting+Code+for+the+Future...;Building+Intelligent+Systems...;Vision%2C+Java+%2B+AI+Wizardry;Let's+Engineer+Tomorrow!" alt="Typing SVG" />
