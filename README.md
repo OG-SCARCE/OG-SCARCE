@@ -11,16 +11,16 @@
 - 🔭 Currently working on **Onslaught** – a Java-based face recognition 2D shooter game.
 - 🧠 Exploring **AI/ML, Computer Vision, and Embedded Innovation**.
 - ⚙️ Projects include smart road studs, real-time face login, and deep-learning experiments.
-- 🧰 Tech Stack: `Java`, `OpenCV`, `JavaFX`, `C`, `Python`, `MATLAB`, `SolidWorks`.
+- 🧰 Tech Stack: `Java`, `OpenCV`, `JavaFX`, `C`, `Python`, `Html`, `CSS`, `JavaScript`, `SolidWorks`.
 
 ---
 
 ### 🚀 Tech Toolbox
 ```bash
-Languages:     Java | C | Python | HTML/CSS | MATLAB | Bash
-Tools:         IntelliJ | VSCode | NetBeans | Git | Eclipse
-Libraries:     OpenCV | JavaFX | NumPy | Matplotlib | OpenGL
-Design:        SolidWorks | Figma | Blender
+Languages:     Java       | C      | Python   | HTML/CSS   | MATLAB | Bash
+Tools:         IntelliJ   | VSCode | NetBeans | Git        | Eclipse
+Libraries:     OpenCV     | JavaFX | NumPy    | Matplotlib | OpenGL
+Design:        SolidWorks | Figma  | Blender
 ```
 ### 📈 GitHub Stats
 
@@ -52,8 +52,8 @@ Design:        SolidWorks | Figma | Blender
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:scarce@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/scarce"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:amanpatel.2805@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/og-scarce"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/OG-SCARCE"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
 
