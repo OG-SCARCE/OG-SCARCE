@@ -33,8 +33,6 @@ Design:        SolidWorks | Figma  | Blender
 
 ### 🧠 Language Usage – Animated Pie Chart
 
-> *(Replace the image URL below with your actual GIF)*
-
 <p align="center">
   <img src="https://github.com/OG-SCARCE/OG-SCARCE/assets/animated-language-pie-chart.gif" alt="Animated Pie Chart" width="400px"/>
 </p>
