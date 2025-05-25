@@ -21,11 +21,10 @@ Languages:     Java | C | Python | HTML/CSS | MATLAB | Bash
 Tools:         IntelliJ | VSCode | NetBeans | Git | Eclipse
 Libraries:     OpenCV | JavaFX | NumPy | Matplotlib | OpenGL
 Design:        SolidWorks | Figma | Blender
-
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OG-SCARCE&theme=tokyonight" height="180"/> </p>
 🧠 Language Usage – Animated Pie Chart
-(replace this GIF link with your actual uploaded chart once ready)
+(Replace this GIF link with your uploaded chart)
 
 <p align="center"> <img src="https://github.com/OG-SCARCE/OG-SCARCE/assets/animated-language-pie-chart.gif" alt="Animated Pie Chart" width="400px"/> </p>
 🏆 GitHub Trophies
