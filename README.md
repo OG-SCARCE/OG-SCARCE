@@ -8,36 +8,47 @@
 
 
 ## 🌌 ABOUT ME
-
+<div align="center">
 <table>
 <tr>
-  <th style="text-align:center; font-size:20px; padding-right:15px;">Emoji</th>
-  <th style="text-align:left; font-family: 'Courier New', Courier, monospace; font-weight:bold; font-size:18px; letter-spacing:2px;">FEATURE</th>
-  <th style="text-align:left; font-family: 'Courier New', Courier, monospace; font-size:16px;">DETAILS</th>
-</tr>
-<tr>
-  <td style="text-align:center; font-size:24px;">🎮</td>
-  <td style="font-weight:bold; font-size:18px; letter-spacing:2px;">CURRENT PROJECT</td>
-  <td>Crafting <em>Onslaught</em> — a Java-based Face Recognition 2D Shooter Game</td>
-</tr>
-<tr>
-  <td style="text-align:center; font-size:24px;">🤖</td>
-  <td style="font-weight:bold; font-size:18px; letter-spacing:2px;">PASSIONS</td>
-  <td>AI/ML, Computer Vision, Embedded Intelligence</td>
-</tr>
-<tr>
-  <td style="text-align:center; font-size:24px;">🛠️</td>
-  <td style="font-weight:bold; font-size:18px; letter-spacing:2px;">BUILDER OF</td>
-  <td>Smart road studs, secure face login systems, real-time prototypes</td>
-</tr>
-<tr>
-  <td style="text-align:center; font-size:24px;">💾</td>
-  <td style="font-weight:bold; font-size:18px; letter-spacing:2px;">TECH ARSENAL</td>
-  <td>Java, OpenCV, JavaFX, C, Python, HTML, CSS, JS, SolidWorks</td>
+  <td>
+  <table>
+      <tr>
+        <td style="font-size:22px; text-align:center; width:100px;">🎮 <strong>CURRENT PROJECT</strong></td>
+        <td style="font-family: 'Courier New', Courier, monospace; font-size:18px; letter-spacing:1.2px; padding-left:15px;">
+          Crafting <em>Onslaught</em> — a Java-based Face Recognition 2D Shooter Game.
+        </td>
+      </tr>
+      <tr>
+        <td style="font-size:22px; text-align:center; width:100px;">🤖 <strong>PASSIONS</strong></td>
+        <td style="font-family: 'Courier New', Courier, monospace; font-size:18px; letter-spacing:1.2px; padding-left:15px;">
+          AI/ML, Computer Vision, Embedded Intelligence.
+        </td>
+      </tr>
+      <tr>
+        <td style="font-size:22px; text-align:center; width:100px;">🛠️ <strong>BUILDER OF</strong></td>
+        <td style="font-family: 'Courier New', Courier, monospace; font-size:18px; letter-spacing:1.2px; padding-left:15px;">
+          Smart road studs, secure face login systems & real-time prototypes.
+        </td>
+      </tr>
+      <tr>
+        <td style="font-size:22px; text-align:center; width:100px;">💾 <strong>TECH ARSENAL</strong></td>
+        <td style="font-family: 'Courier New', Courier, monospace; font-size:18px; letter-spacing:1.2px; padding-left:15px;">
+          Java, OpenCV, JavaFX, C, Python, HTML, CSS, JS, SolidWorks.
+        </td>
+      </tr>
+    </table>
+  </td>
+
+  <td align="center" width="30%" style="vertical-align: middle; padding-left: 20px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhrbGx3eG01NWpkcXpzeTJsYXd3NnN6bGdsN3FwbTJxbmJ0cHE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif" 
+         width="160" alt="Gaming Animation" />
+
+  </td>
 </tr>
 </table>
-
-
+</td>
+</div>
 
 ## 🧰 TECH TOOLBOX
 
