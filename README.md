@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Futuristic Engineer | 🧠 AI Visioneer | 🔒 Cybersecurity Aficionado | 🤖 Automation Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Crafting+Code+for+the+Future...;Java+%2B+Vision+%3D+Intelligence+Unleashed;On+Mission+to+Engineer+Tomorrow!;Blending+AI%2C+Cybersec%2C+and+Automation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Crafting+Code+for+the+Future...;Java+%2B+Vision+%3D+Intelligence+Unleashed;On+Mission+to+Engineer+Tomorrow!;Blending+AI%2C+Cybersec%2C+and+Automation." alt="Typing SVG" />
 </p>
 
 ---
