@@ -68,20 +68,14 @@ Design:        SolidWorks | Figma  | Blender
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /> </div>
 
 
-## 🚀 PROJECTS THAT DEFINE ME
+## 🚀 Projects That Define Me
 
-<br>
-  
-🧠 Face Recognition Login System — Real-time security using OpenCV + JavaFX
-<br>
-  
-🌍 Smart Road Studs — AQI, speed detection, solar-powered traffic intelligence
-<br>
-
-🧪 AI Labs — Deep Learning prototypes in image processing & pattern recognition
-<br>
-
-🎨 SolidWorks Engineering — From mechanical concept models to visual design
+| Project                     | Description                                                                                  |
+|-----------------------------|----------------------------------------------------------------------------------------------|
+| 🧠 **Face Recognition Login System** | Real-time security solution leveraging OpenCV and JavaFX. Developed a robust face recognition-based authentication system enabling secure and seamless login experiences. |
+| 🌍 **Smart Road Studs**             | Innovative traffic intelligence powered by solar energy. Designed smart road studs equipped with AQI monitoring, vehicle speed detection, and energy harvesting to enhance road safety and environmental awareness. |
+| 🧪 **AI Labs**                     | Cutting-edge deep learning prototypes. Created advanced AI models focused on image processing and pattern recognition, pushing the boundaries of computer vision applications. |
+| 🎨 **SolidWorks Engineering**       | From mechanical concept to visual excellence. Engineered detailed mechanical models and designs using SolidWorks, combining technical precision with creative visualization. |
 
 
  ## 🔗 LET'S CONNECT 
