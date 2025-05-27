@@ -11,17 +11,17 @@
 - 🔭 Currently working on **Onslaught** – a Java-based face recognition 2D shooter game.
 - 🧠 Exploring **AI/ML, Computer Vision, and Embedded Innovation**.
 - ⚙️ Projects include smart road studs, real-time face login, and deep-learning experiments.
-- 🧰 Tech Stack: `Java`, `OpenCV`, `JavaFX`, `C`, `Python`, `Html`, `CSS`, `JavaScript`, `SolidWorks`.
+- 🧰 Tech Stack: Java, OpenCV, JavaFX, C, Python, Html, CSS, JavaScript, SolidWorks.
 
 ---
 
 ### 🚀 Tech Toolbox
-```bash
+bash
 Languages:     Java       | C      | Python   | HTML/CSS   | MATLAB | Bash
 Tools:         IntelliJ   | VSCode | NetBeans | Git        | Eclipse
 Libraries:     OpenCV     | JavaFX | NumPy    | Matplotlib | OpenGL
 Design:        SolidWorks | Figma  | Blender
-```
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -41,9 +41,9 @@ Design:        SolidWorks | Figma  | Blender
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
