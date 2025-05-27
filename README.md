@@ -61,7 +61,11 @@ Design:        SolidWorks | Figma  | Blender
 
 ## 📈 GITHUB INSIGHTS 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=SCARCE's+GitHub+Stats" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=OG-SCARCE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" /> </div> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_width=4&custom_title=SCARCE's+GitHub+Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OG-SCARCE&theme=tokyonight&hide_border=false&border_width=4&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+</div>
+
 
 
 ## 🏆 GITHUB TROPHIES
