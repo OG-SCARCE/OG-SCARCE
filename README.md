@@ -16,12 +16,12 @@
 ---
 
 ### 🚀 Tech Toolbox
-bash
+```
 Languages:     Java       | C      | Python   | HTML/CSS   | MATLAB | Bash
 Tools:         IntelliJ   | VSCode | NetBeans | Git        | Eclipse
 Libraries:     OpenCV     | JavaFX | NumPy    | Matplotlib | OpenGL
 Design:        SolidWorks | Figma  | Blender
-
+```
 ---
 
 ### 📈 GitHub Insights
