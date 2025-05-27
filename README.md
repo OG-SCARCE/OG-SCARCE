@@ -35,6 +35,7 @@ Design:        SolidWorks | Figma  | Blender
 
 </details>
 <details> <summary>🚀 <strong>Projects That Define Me</strong></summary>
+  
 🧠 Face Recognition Login System — Real-time security using OpenCV + JavaFX
 
 🌍 Smart Road Studs — AQI, speed detection, solar-powered traffic intelligence
