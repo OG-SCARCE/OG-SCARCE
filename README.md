@@ -89,6 +89,16 @@ Design:        SolidWorks | Figma  | Blender
 
 
 ## 🧬 QUOTE I LIVE BY
-“The future belongs to those who build it.” — Someone you might know !
 
-<p align="center"> ☕ Fueled by caffeine, algorithms & chaos.<br> 🔥 Let's create something extraordinary. </p> 
+  > “The future belongs to those who build it.” — Someone you might know !
+  
+ <div align="center"> 
+   <table>
+     <tr>
+       <td>
+   ☕ Fueled by caffeine, algorithms &amp; chaos.<br>  
+   🔥 Let's create something extraordinary.
+         </td>
+     </tr>
+   </table>
+   </div>
