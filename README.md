@@ -49,4 +49,4 @@ Design:        SolidWorks | Figma  | Blender
 <details> <summary>🧬 <strong>Quote I Live By</strong></summary>
 “The future belongs to those who build it.” — Anonymous
 
-<p align="center"> ☕ Fueled by caffeine, algorithms & chaos.<br> 🔥 Let's create something extraordinary. </p> </details> ```
+<p align="center"> ☕ Fueled by caffeine, algorithms & chaos.<br> 🔥 Let's create something extraordinary. </p> </details>
