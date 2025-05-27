@@ -28,7 +28,6 @@ Libraries:     OpenCV     | JavaFX | NumPy    | Matplotlib | OpenGL
 Design:        SolidWorks | Figma  | Blender
 ```
 </details>
----
 
 <details> <summary>📈 <strong>GitHub Insights</strong></summary> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=SCARCE's+GitHub+Stats" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=OG-SCARCE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" /> </div> </details>
 <details> <summary>🏆 <strong>GitHub Trophies</strong></summary> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /> </div>
