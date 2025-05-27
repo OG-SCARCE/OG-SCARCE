@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Toolbox
 ```
-Languages:     Java       | C      | Python   | HTML/CSS   | MATLAB |
+Languages:     Java       | C      | Python   | HTML/CSS   | MATLAB 
 Tools:         IntelliJ   | VSCode | NetBeans | Git        | Eclipse
 Libraries:     OpenCV     | JavaFX | NumPy    | Matplotlib | OpenGL
 Design:        SolidWorks | Figma  | Blender
