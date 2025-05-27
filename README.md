@@ -38,12 +38,11 @@ Design:        SolidWorks | Figma  | Blender
 </summary>
 <br>
 🧠 Face Recognition Login System — Real-time security using OpenCV + JavaFX
-
-
+<br>
 🌍 Smart Road Studs — AQI, speed detection, solar-powered traffic intelligence
-
+<br>
 🧪 AI Labs — Deep Learning prototypes in image processing & pattern recognition
-
+<br>
 🎨 SolidWorks Engineering — From mechanical concept models to visual design
 
 </details>
