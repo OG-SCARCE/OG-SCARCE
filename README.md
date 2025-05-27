@@ -34,8 +34,9 @@ Design:        SolidWorks | Figma  | Blender
 ⚠️ If trophies don’t load due to Vercel issues, refresh or try again later!
 
 </details>
-<details> <summary>🚀 <strong>Projects That Define Me</strong></summary>
-  
+<details> <summary>🚀 <strong>Projects That Define Me</strong>
+</summary>
+<br>
 🧠 Face Recognition Login System — Real-time security using OpenCV + JavaFX
 
 🌍 Smart Road Studs — AQI, speed detection, solar-powered traffic intelligence
