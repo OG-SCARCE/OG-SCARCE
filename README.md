@@ -42,7 +42,7 @@ Design:        SolidWorks | Figma  | Blender
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE" />
 </div>
 
 ---
