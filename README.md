@@ -42,7 +42,7 @@
 
   <td align="center" width="30%" style="vertical-align: middle; padding-left: 20px;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhrbGx3eG01NWpkcXpzeTJsYXd3NnN6bGdsN3FwbTJxbmJ0cHE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif" 
-         width="160" alt="Gaming Animation" />
+         width="155" alt="Gaming Animation" />
 
   </td>
 </tr>
