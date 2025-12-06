@@ -71,12 +71,21 @@ Design:        SolidWorks | Figma  | Blender
     style="height: 180px; width: 431px; border-radius: 10px; border: 4px solid;"
   />
 </div>
+---
 
 
+## 🛠️ **Tech Stack**
+<div align="center">
 
-## 🏆 GITHUB TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /> </div>
+<!-- PROGRAMMING LANGUAGES -->
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js" />
 
+<!-- TOOLS -->
+<img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,vscode" />
+
+</div>
+
+---
 
 ## 🚀 PROJECTS THAT DEFINE ME
 
