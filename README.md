@@ -58,28 +58,29 @@ Tools:         IntelliJ   | VSCode | NetBeans | Git        | Eclipse
 Libraries:     OpenCV     | JavaFX | NumPy    | Matplotlib | OpenGL
 Design:        SolidWorks | Figma  | Blender
 ```
-
 ## 📈 GITHUB INSIGHTS 
 
 <div align="center" style="
   display:flex;
-  flex-direction:column;
-  align-items:center;
+  justify-content:center;
   gap:20px;
+  flex-wrap: nowrap;
   max-width: 900px;
   margin:auto;
 ">
 
-  <!-- Custom rounded stats card (local SVG) -->
-  <img src="./assets/scarce-stats.svg" width="900" />
-
-  <!-- Working streak card (demolab) -->
+  <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=OG-SCARCE&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D"
-    style="width: 900px; max-width: 900px;"
+    src="https://streak-stats.demolab.com?user=OG-SCARCE&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    style="
+      height: 180px;
+      width: 431px;
+      border-radius: 12px;
+    "
   />
 
 </div>
+
 
 ## 🛠️ **Tech Stack**
 <div align="center">
@@ -91,6 +92,18 @@ Design:        SolidWorks | Figma  | Blender
 <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,idea,vscode" />
 
 </div>
+
+---
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=OG-SCARCE&theme=github-dark&hide_border=false&area=true"
+  style="width: 900px; height: 180px; border-radius: 12px;"
+/>
+
+<img src="https://github.com/OG-SCARCE/OG-SCARCE/blob/main/github-metrics.svg" />
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=onedark&no-frame=false&no-bg=true&margin-w=15" 
+/>
 
 ---
 
