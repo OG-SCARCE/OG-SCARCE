@@ -61,18 +61,25 @@ Design:        SolidWorks | Figma  | Blender
 
 ## 📈 GITHUB INSIGHTS 
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap: nowrap; max-width: 720px; margin: auto;">
+<div align="center" style="
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:20px;
+  max-width: 900px;
+  margin:auto;
+">
+
+  <!-- Custom rounded stats card (local SVG) -->
+  <img src="./assets/scarce-stats.svg" width="900" />
+
+  <!-- Working streak card (demolab) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_width=4&custom_title=SCARCE's+GitHub+Stats"
-    style="height: 180px; width: 431px; border-radius: 10px; border: 4px solid;"
+    src="https://streak-stats.demolab.com?user=OG-SCARCE&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D"
+    style="width: 900px; max-width: 900px;"
   />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=OG-SCARCE&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_width=4&date_format=M%20j%5B%2C%20Y%5D"
-    style="height: 180px; width: 431px; border-radius: 10px; border: 4px solid;"
-  />
+
 </div>
-
-
 
 ## 🛠️ **Tech Stack**
 <div align="center">
