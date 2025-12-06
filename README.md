@@ -71,7 +71,7 @@ Design:        SolidWorks | Figma  | Blender
     style="height: 180px; width: 431px; border-radius: 10px; border: 4px solid;"
   />
 </div>
----
+
 
 
 ## 🛠️ **Tech Stack**
