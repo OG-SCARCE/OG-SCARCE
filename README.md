@@ -15,26 +15,18 @@
 
 <!-- Rainbow Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=65&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=%F0%9F%91%8B+Welcome+to+My+Realm" alt="Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=65&duration=2000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=%F0%9F%91%8B+Welcome+to+My+Realm" alt="Welcome" />
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=35&duration=3000&pause=500&color=7928CA&center=true&vCenter=true&width=300&lines=I'm+SCARCE" alt="Name" />
 </p>
 
-<!-- Multi-Color Animated Subtitles -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&weight=600&size=24&pause=1000&color=FF0080&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Futuristic+Engineer" alt="Line1" />
+  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&size=35&duration=3000&pause=500&color=gradient&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Futuristic+Engineer;%F0%9F%A7%A0+AI+Visioneer+%26+ML+Explorer;%F0%9F%94%92+Cybersecurity+Aficionado;%F0%9F%A4%96+Automation+Architect" />
+
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&weight=600&size=24&pause=1000&color=7928CA&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+AI+Visioneer+%26+ML+Explorer" alt="Line2" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%94%92+Cybersecurity+Aficionado" alt="Line3" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=New+Tegomin&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Automation+Architect" alt="Line4" />
-</p>
+
 
 <!-- Animated Matrix Rain Effect -->
 <div align="center">
@@ -115,10 +107,10 @@
 ║  ⚡  CORE ABILITIES                                  ║
 ╠══════════════════════════════════════════════════════╣
 ║  🧠 Artificial Intelligence & Machine Learning       ║
-║  👁️ Computer Vision & Image Processing              ║
+║  👁️ Computer Vision & Image Processing               ║
 ║  🔐 Cybersecurity & Ethical Hacking                  ║
 ║  🎮 Game Development & Graphics                      ║
-║  ⚙️ Embedded Systems & IoT                          ║
+║  ⚙️ Embedded Systems & IoT                           ║
 ║  🤖 Automation & Scripting                           ║
 ╠══════════════════════════════════════════════════════╣
 ║  💭 PHILOSOPHY                                       ║
@@ -224,9 +216,8 @@
 <div align="center">
   
   <!-- Stats Row 1 - Pink & Purple Theme -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&count_private=true&hide_border=true&title_color=FF0080&icon_color=7928CA&text_color=c9d1d9&bg_color=0d1117&border_radius=15&ring_color=FF0080" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OG-SCARCE&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FFD700&currStreakLabel=00D4FF&sideNums=FF0080&currStreakNum=00FF88&dates=8B949E&sideLabels=7928CA&border_radius=15" alt="Streak Stats"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OG-SCARCE&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=c9d1d9&border_radius=15" alt="Streak Stats"/>
 </div>
 
 <br>
