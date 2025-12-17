@@ -267,7 +267,8 @@
 
 <!-- Fixed trophy URL with radical theme for colorful display -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OG-SCARCE&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=15" alt="Trophies"/>
+<img src="https://ghchart.rshah.org/00F7FF/OG-SCARCE" />
+
 </div>
 
 <br>
