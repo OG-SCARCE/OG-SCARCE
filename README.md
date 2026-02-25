@@ -188,11 +188,11 @@ philosophy: "Code is poetry. Bugs are plot twists.
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `</> GITHUB ANALYTICS </>` <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GITHUB STATS"/>
   
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="TOP LANGUAGES"/>
-</p>
+</p> -->
 <!-- Fire Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
