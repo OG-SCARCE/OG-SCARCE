@@ -188,27 +188,31 @@ philosophy: "Code is poetry. Bugs are plot twists.
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `</> GITHUB ANALYTICS </>` <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
 
-<!-- <p align="center">
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GITHUB STATS"/>
   
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="TOP LANGUAGES"/>
-</p> -->
+</p>
+
 <!-- Fire Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
 <br>
+
 <!-- Added streak stats -->
 <p align="center">
   <img width="800" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=OG-SCARCE&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=F78166&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Streak Stats"/>
 </p>
+
 <!-- Fire Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
 <br>
+
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OG-SCARCE&bg_color=0d1117&color=00D4FF&line=FF0080&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Graph&area_color=7928CA" width="98%" alt="Activity Graph"/>
@@ -222,12 +226,16 @@ philosophy: "Code is poetry. Bugs are plot twists.
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> `</> ACHIEVEMENT </>` <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
 
 <!-- Using reliable shields.io badges instead of external trophy service -->
+<!-- Achievement Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-FF0080?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Repositories-Creator-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Stars-Contributor-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-Collaborator-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Issues-Problem%20Solver-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Commits-Active_Coder-FF0080?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Stars-Rising_Star-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Streak-On_Fire-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Repos-Creator-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/PRs-Collaborator-00FF88?style=for-the-badge&logo=github&logoColor=white" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Issues-Bug_Hunter-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Packages-Publisher-E44D26?style=for-the-badge&logo=github&logoColor=white" alt="Packages"/>
+  <img src="https://img.shields.io/badge/Followers-Influencer-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -358,6 +366,164 @@ philosophy: "Code is poetry. Bugs are plot twists.
 
 <!-- Added animated brain/AI thinking gif -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                    3D CONTRIBUTION CALENDAR                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## 📅 `</> CONTRIBUTION CALENDAR </>` 📅
+
+<!-- Isometric Contribution Calendar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OG-SCARCE&theme=radical" width="98%" alt="Profile Details"/>
+</p>
+
+<!-- Contribution Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OG-SCARCE&theme=radical" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OG-SCARCE&theme=radical" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OG-SCARCE&theme=radical&utcOffset=5.5" width="32%" alt="Productive Time"/>
+</p>
+
+<!-- Contribution Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OG-SCARCE&theme=radical" width="49%" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=FF0080&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=10" width="49%" alt="Top Languages"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                    DYNAMIC SKILL RADAR                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## 🎯 `</> SKILL RADAR </>` 🎯
+
+<!-- Dynamic Skill Visualization with Badges -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🧠 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/TensorFlow-95%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-90%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-95%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-80%25-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-75%25-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-65%25-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Programming Languages
+
+<img src="https://img.shields.io/badge/Java-95%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-90%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-85%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔧 DevOps & Tools
+
+<img src="https://img.shields.io/badge/Docker-90%25-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-75%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-95%25-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-90%25-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CI%2FCD-80%25-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-75%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</td>
+<td width="50%" align="center">
+
+### 🛡️ Security & Networking
+
+<img src="https://img.shields.io/badge/Pen_Testing-90%25-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cryptography-80%25-FF0080?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network_Sec-95%25-00D4FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reverse_Eng-75%25-7928CA?style=for-the-badge&logo=reverbnation&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSINT-85%25-00FF88?style=for-the-badge&logo=osano&logoColor=white"/>
+<img src="https://img.shields.io/badge/Forensics-75%25-FFD700?style=for-the-badge&logo=scrutinizerci&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Skill Tags -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Expert-FF0080?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CV-Master-7928CA?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Security-Advanced-00D4FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/DevOps-Pro-00FF88?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GameDev-Enthusiast-FFD700?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                    LIVE STATUS                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## 📡 `</> LIVE STATUS </>` 📡
+
+<!-- Streaming/Live Status Indicators -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_STATUS-ONLINE-00FF00?style=for-the-badge&labelColor=0d1117" alt="Online"/>
+  <img src="https://img.shields.io/badge/🔴_LIVE-CODING_NOW-FF0000?style=for-the-badge&labelColor=0d1117" alt="Live"/>
+  <img src="https://img.shields.io/badge/⚡_ENERGY-MAXIMUM-FFD700?style=for-the-badge&labelColor=0d1117" alt="Energy"/>
+</p>
+
+<!-- Animated Status Dashboard -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Status%3A+OPERATIONAL+%E2%9C%93;%5BSYSTEM%5D+Current+Project%3A+Onslaught+Game+%F0%9F%8E%AE;%5BSYSTEM%5D+Coffee+Level%3A+CRITICAL+%E2%98%95;%5BSYSTEM%5D+Bug+Count%3A+Decreasing...+%F0%9F%90%9B;%5BSYSTEM%5D+Commit+Streak%3A+ACTIVE+%F0%9F%94%A5;%5BSYSTEM%5D+Learning%3A+Edge+AI+%26+MLOps+%F0%9F%A7%A0;%5BSYSTEM%5D+Mood%3A+Building+the+Future+%F0%9F%9A%80" alt="System Status"/>
+</p>
+
+<!-- Current Activity Cards -->
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+<br>
+<b> Currently Building</b><br>
+<i>ONSLAUGHT Game Engine</i><br><br>
+<img src="https://img.shields.io/badge/█████████░-90%25-00FF00?style=for-the-badge" alt="90%"/>
+<br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+<b> Currently Learning</b><br>
+<i>Edge AI & MLOps Pipeline</i><br><br>
+<img src="https://img.shields.io/badge/██████░░░░-60%25-00D4FF?style=for-the-badge" alt="60%"/>
+<br>
+
+</td>
+<td align="center" width="33%">
+
+<br>
+<b> Currently Exploring</b><br>
+<i>Quantum ML & Neural Archs</i><br><br>
+<img src="https://img.shields.io/badge/████░░░░░░-40%25-7928CA?style=for-the-badge" alt="40%"/>
+<br>
+
+</td>
+</tr>
+</table>
+
+<!-- Real-time Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/OG-SCARCE/OG-SCARCE?label=Last%20Active&style=for-the-badge&color=FF0080&logo=github&logoColor=white&labelColor=0d1117" alt="Last Active"/>
+  <img src="https://img.shields.io/github/commit-activity/w/OG-SCARCE/OG-SCARCE?label=Weekly%20Commits&style=for-the-badge&color=7928CA&logo=git&logoColor=white&labelColor=0d1117" alt="Weekly Commits"/>
+  <img src="https://img.shields.io/github/repo-size/OG-SCARCE/OG-SCARCE?label=Profile%20Size&style=for-the-badge&color=00D4FF&logo=github&logoColor=white&labelColor=0d1117" alt="Repo Size"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
