@@ -152,11 +152,11 @@ philosophy: "Code is poetry. Bugs are plot twists.
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `</> GITHUB ANALYTICS </>` <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">​​​
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OG-SCARCE&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF0080&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GITHUB STATS"/>
   
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10" alt="TOP LANGUAGES"/>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
@@ -326,7 +326,7 @@ philosophy: "Code is poetry. Bugs are plot twists.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OG-SCARCE&theme=radical" width="49%" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=FF0080&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=10" width="49%" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-SCARCE&layout=compact&hide_border=true&title_color=FF0080&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=10" width="49%" alt="Top Languages"/> -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
